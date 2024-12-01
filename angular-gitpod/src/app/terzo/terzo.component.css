@@ -1,3 +1,10 @@
 spam{
     color: green;
 }
+/* src/app/third/third.component.css */
+h3 {
+    color: green;
+    font-size: 20px;
+    text-align: center;
+  }
+  
